@@ -299,7 +299,8 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/b9975113-a605-403a-ade5-7b444ec816f8)
+![WhatsApp Image 2024-10-21 at 09 27 44_15099a54](https://github.com/user-attachments/assets/ee0690f4-169e-4335-9fad-2fe1a5b8bb15)
+
 
 ## RESULT:
 The program is executed successfully
