@@ -237,7 +237,8 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/c229bc47-a02a-4590-83e3-fb651385ef8c)
+![WhatsApp Image 2024-10-21 at 09 15 22_2f35b849](https://github.com/user-attachments/assets/fb45d595-3615-4fe4-8f03-d2a2baee0b06)
+
 
 
 ## RESULT:
