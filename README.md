@@ -120,7 +120,7 @@ To decrypt, use the INVERSE (opposite) of the last 3 rules, and the 1st as-is (d
 
 
 ## PROGRAM:
-#include <stdio.h>
+```#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #define SIZE 30
@@ -275,6 +275,7 @@ printf("Cipher text: %s\n", str);
 
 return 0;
 }
+```
 
 ## OUTPUT:
 Output:
